@@ -26,4 +26,4 @@ docker run hello-alpine
 
 To remove the stopped container run:
 
-docker rm <container-id>
+docker rm [container-id]
